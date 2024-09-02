@@ -1,0 +1,7 @@
+# Applications Shortcuts
+alias v='nvim'
+
+# Dnf Shortcuts 
+alias i='sudo dnf install'
+alias r='sudo dnf remove'
+alias s='sudo dnf search'
